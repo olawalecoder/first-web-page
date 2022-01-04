@@ -84,8 +84,14 @@ img{
     display: flex;
     justify-content: center;
     align-content: center;
-    text-align: center;
-    
+    text-align: center;   
+}
+
+.box-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
 }
 
 .box{
